@@ -23,3 +23,17 @@
 - Perulangan dalam: berperan mengatur jumlah bintang dalam baris (kolom).
 4. System.out.println(); berperan untuk memindahkan ke baris baru setelah baris bintang telah selesai dicetak. Apabila sintaks ini dihapus maka semua bintang akan dicetak dalam satu baris, tanpa pindah baris.
 
+**--PERCOBAAN 3--**
+1. Perhatikan, apakah output yang dihasilkan dengan nilai N=5 sesuai dengan tampilan berikut?
+*
+**
+***
+****
+*****
+2. Jika tidak sesuai, bagian mana saja yang harus diperbaiki/ditambahkan? Jelaskan setiap bagian yang perlu diperbaiki/ditambahkan.
+3. Silakan commit dan push ke repository Anda. 
+
+**Jawaban:**
+1. Tidak
+2. Menambahkan system.out.println(); sebelum i++.
+Saya sudah commit dan push modifikasi tersebut.
